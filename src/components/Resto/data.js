@@ -10,7 +10,8 @@ export default[
       outcode: "CF24",
       postcode: "3JH",
       rating: 5,
-      type_of_food: "Chinese"
+      type_of_food: "Chinese",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-atthai-ss9/menu",
@@ -23,7 +24,8 @@ export default[
       outcode: "SS9",
       postcode: "5PT",
       rating: 5.5,
-      type_of_food: "Thai"
+      type_of_food: "Thai",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-atthairestaurant/menu",
@@ -36,7 +38,8 @@ export default[
       outcode: "W6",
       postcode: "8NX",
       rating: 4.5,
-      type_of_food: "Thai"
+      type_of_food: "Thai",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-atthairestaurant/menu",
@@ -49,7 +52,8 @@ export default[
       outcode: "W6",
       postcode: "8NX",
       rating: 4.5,
-      type_of_food: "Thai"
+      type_of_food: "Thai",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-indiancom-ch4/menu",
@@ -62,7 +66,8 @@ export default[
       outcode: "CH4",
       postcode: "0QR",
       rating: 6,
-      type_of_food: "Curry"
+      type_of_food: "Curry",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-007takeaway-s65/menu",
@@ -75,7 +80,8 @@ export default[
       outcode: "S65",
       postcode: "1HY",
       rating: 6,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-042-restaurant-e11/menu",
@@ -88,7 +94,8 @@ export default[
       outcode: "E11",
       postcode: "1HR",
       rating: 3,
-      type_of_food: "African"
+      type_of_food: "African",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-042-restaurant-e11/menu",
@@ -101,7 +108,8 @@ export default[
       outcode: "E11",
       postcode: "1HR",
       rating: 3,
-      type_of_food: "African"
+      type_of_food: "African",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-042-restaurant-e11/menu",
@@ -114,7 +122,8 @@ export default[
       outcode: "E11",
       postcode: "1HR",
       rating: 3,
-      type_of_food: "African"
+      type_of_food: "African",
+      icon:"eat.png"
     },
     {
       URL:
@@ -128,7 +137,8 @@ export default[
       outcode: "NE16",
       postcode: "3DS",
       rating: 4.5,
-      type_of_food: "Chinese"
+      type_of_food: "Chinese",
+      icon:"eat.png"
     },
     {
       URL:
@@ -142,7 +152,8 @@ export default[
       outcode: "NE16",
       postcode: "3DS",
       rating: 4.5,
-      type_of_food: "Chinese"
+      type_of_food: "Chinese",
+      icon:"eat.png"
     },
     {
       URL:
@@ -156,7 +167,8 @@ export default[
       outcode: "CF37",
       postcode: "1SN",
       rating: 5,
-      type_of_food: "Chinese"
+      type_of_food: "Chinese",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-100menu-wn1/menu",
@@ -169,7 +181,8 @@ export default[
       outcode: "WN1",
       postcode: "1JU",
       rating: 5,
-      type_of_food: "Chinese"
+      type_of_food: "Chinese",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-104-turkish-BBQ/menu",
@@ -182,7 +195,8 @@ export default[
       outcode: "IG6",
       postcode: "1QE",
       rating: 5,
-      type_of_food: "Turkish"
+      type_of_food: "Turkish",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-109restaurant-w2/menu",
@@ -195,7 +209,8 @@ export default[
       outcode: "W2",
       postcode: "5QL",
       rating: 5,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-113-fish-bar-wallasey/menu",
@@ -208,7 +223,8 @@ export default[
       outcode: "CH44",
       postcode: "9DE",
       rating: 5.5,
-      type_of_food: "Chinese"
+      type_of_food: "Chinese",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-133-takeaway-irvine/menu",
@@ -221,7 +237,8 @@ export default[
       outcode: "KA12",
       postcode: "8DG",
       rating: "Not yet rated",
-      type_of_food: "Breakfast"
+      type_of_food: "Breakfast",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-1498thespiceaffair-pe11/menu",
@@ -234,7 +251,8 @@ export default[
       outcode: "PE11",
       postcode: "1SU",
       rating: 5.5,
-      type_of_food: "Curry"
+      type_of_food: "Curry",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-168chinese-ls18/menu",
@@ -247,7 +265,8 @@ export default[
       outcode: "LS18",
       postcode: "4HE",
       rating: 5.5,
-      type_of_food: "Chinese"
+      type_of_food: "Chinese",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-1awok-pa7/menu",
@@ -260,7 +279,8 @@ export default[
       outcode: "PA7",
       postcode: "5JN",
       rating: 5,
-      type_of_food: "Chinese"
+      type_of_food: "Chinese",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-1pizza1com-ls26/menu",
@@ -273,7 +293,8 @@ export default[
       outcode: "LS26",
       postcode: "0JH",
       rating: 4,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-1st-choice-pizza-ws11/menu",
@@ -286,7 +307,8 @@ export default[
       outcode: "WS11",
       postcode: "0HG",
       rating: 4,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-1stclasspizza-bs7/menu",
@@ -299,7 +321,8 @@ export default[
       outcode: "BS7",
       postcode: "0BE",
       rating: 4.5,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-1stclasspizza-bs7/menu",
@@ -312,7 +335,8 @@ export default[
       outcode: "BS7",
       postcode: "0BE",
       rating: 4.5,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-1stclasspizza-ng18/menu",
@@ -325,7 +349,8 @@ export default[
       outcode: "NG18",
       postcode: "3DH",
       rating: 4.5,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL:
@@ -339,7 +364,8 @@ export default[
       outcode: "NG6",
       postcode: "0AT",
       rating: 4,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-241-pizza-ol1/menu",
@@ -352,7 +378,8 @@ export default[
       outcode: "OL1",
       postcode: "3TH",
       rating: 5.5,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-2for1pizza-le10/menu",
@@ -365,7 +392,8 @@ export default[
       outcode: "LE10",
       postcode: "0AZ",
       rating: 5.5,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-2-spice/menu",
@@ -378,7 +406,8 @@ export default[
       outcode: "RM14",
       postcode: "2TH",
       rating: 5.5,
-      type_of_food: "Curry"
+      type_of_food: "Curry",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-1treatu-b26/menu",
@@ -391,7 +420,8 @@ export default[
       outcode: "B26",
       postcode: "1PB",
       rating: 5.5,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-23rdstreetpizza-m14/menu",
@@ -404,7 +434,8 @@ export default[
       outcode: "M14",
       postcode: "6NW",
       rating: 5,
-      type_of_food: "American"
+      type_of_food: "American",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-23rdstreetpizza-m14/menu",
@@ -417,7 +448,8 @@ export default[
       outcode: "M14",
       postcode: "6NW",
       rating: 5,
-      type_of_food: "American"
+      type_of_food: "American",
+      icon:"eat.png"
     },
     {
       URL: "http://www.just-eat.co.uk/restaurants-241-pizza/menu",
@@ -430,6 +462,7 @@ export default[
       outcode: "LE3",
       postcode: "5QG",
       rating: 5,
-      type_of_food: "Pizza"
+      type_of_food: "Pizza",
+      icon:"eat.png"
     }
   ];

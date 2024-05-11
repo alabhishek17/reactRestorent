@@ -1,11 +1,19 @@
-
-function Cards({ name, address, outcode, rating }) {
+import { MdLocationOn } from "react-icons/md";
+function Cards({ name, address, outcode, rating, icon, foodName, more }) {
     return (
-        <div style={{border:"2px solid black",width:"30%"}}>
+        <div style={{ width: "30%",boxShadow:"0px 1px 1px 0px" }}>
             <h3>{name}</h3>
             <h4>{rating}</h4>
-            <p>{address}</p>
+            <p><MdLocationOn />{address}</p>
             <p>{outcode}</p>
+            <section style={{ backgroundColor: "#F3F4F5", padding: "10px" }}>
+
+                <div style={{ display: "flex",marginBottom:"10px" }}>
+                    <img src={icon} alt="" style={{ width: "50px" }} />
+                    <p>{foodName}</p>
+                </div>
+                <a href={more}>Visit Menu</a>
+            </section>
         </div>
     )
 }
