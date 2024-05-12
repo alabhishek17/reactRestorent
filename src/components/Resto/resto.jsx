@@ -24,7 +24,8 @@ const[count,setCount]=useState(0)
                 {/* <ul>{filterData()}</ul> */}
                 {
                      data.filter((iteam)=>(
-                        iteam.name.includes(search)
+                        iteam.name.toLocaleLowerCase().includes(search.toLocaleLowerCase())
+                        
                      ))
 
                    .map((iteam)=>(
